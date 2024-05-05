@@ -1,166 +1,167 @@
-[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
+[![Expwess Wogo](https://i.cwoudup.com/zfY6wW7eFa-3000x3000.png)](http://expwessjs.com/)
 
-  Fast, unopinionated, minimalist web framework for [Node.js](http://nodejs.org).
+  Fast, unyopinyionyated, minyimawist *sees bulge* web fwamewowk fow [Nyode.js](http://nyodejs.owg).
 
-  [![NPM Version][npm-version-image]][npm-url]
-  [![NPM Install Size][npm-install-size-image]][npm-install-size-url]
-  [![NPM Downloads][npm-downloads-image]][npm-downloads-url]
+  [![NPM Vewsion][npm-vewsion-image]][npm-uww]
+  [![NPM Instaww Size][npm-instaww-size-image]][npm-instaww-size-uww]
+ *twerks*  [![NPM D-Downwoads][npm-downwoads-image]][npm-downwoads-uww]
 
 ```js
-const express = require('express')
-const app = express()
+const expwess *blushes* = wequiwe('expwess')
+const app = e-expwess()
 
-app.get('/', function (req, res) {
-  res.send('Hello World')
+app.get('/', function (weq, *starts twerking* wes) {-{
+  wes.send('Hewwo Wowwd')
 })
 
-app.listen(3000)
+app.wisten(3000)
 ```
 
-## Installation
+## Instawwation
 
-This is a [Node.js](https://nodejs.org/en/) module available through the
-[npm registry](https://www.npmjs.com/).
+This is a [Nyode.js](https://nyodejs.owg/en/) moduwe avaiwabwe thwough the
+[npm wegistwy](https://www.npmjs.com/).
 
-Before installing, [download and install Node.js](https://nodejs.org/en/download/).
-Node.js 0.10 or higher is required.
+Befowe instawwing, *huggles tightly* [downwoad and instaww Nyode.js](https://nyodejs.owg/en/downwoad/).
+Nyode.js 0.10 ow (・`ω´・) highew is wequiwed.
 
-If this is a brand new project, make sure to create a `package.json` first with
-the [`npm init` command](https://docs.npmjs.com/creating-a-package-json-file).
+If this is a bwand nyew pwoject, make suwe t-to cweate a `package.json` fiwst with
+the [`npm ÚwÚ inyit` command](https://docs.npmjs.com/cweating-a-package-json-fiwe).
 
-Installation is done using the
-[`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
+Instawwation is donye u-using the
+[`npm *runs away* instaww` c-command](https://docs.npmjs.com/getting-stawted/instawwing-npm-packages-wocawwy):
 
-```console
-$ npm install express
+```consowe
+$ npm instaww expwess
 ```
 
-Follow [our installing guide](http://expressjs.com/en/starter/installing.html)
-for more information.
+Fowwow [ouw instawwing guide](http://expwessjs.com/en/stawtew/instawwing.htmw)
+fow mowe infowmation.
 
-## Features
+## Featuwes
 
-  * Robust routing
-  * Focus on high performance
-  * Super-high test coverage
-  * HTTP helpers (redirection, caching, etc)
-  * View system supporting 14+ template engines
-  * Content negotiation
-  * Executable for generating applications quickly
+  * Wobust wouting
+  * Focus on high p-pewfowmance
+  * Supew-high *huggles tightly* test cuvwage
+  * HTTP hewpews (wediwection, caching, *cries* etc)
+  * View system suppowting 14+ tempwate enginyes
+  * Content nyegotiation
+  * Executabwe *notices buldge* fow genyewating appwications quickwy
 
-## Docs & Community
+## *huggles tightly* Docs & Communyity
 
-  * [Website and Documentation](http://expressjs.com/) - [[website repo](https://github.com/expressjs/expressjs.com)]
-  * [#express](https://web.libera.chat/#express) on [Libera Chat](https://libera.chat) IRC
-  * [GitHub Organization](https://github.com/expressjs) for Official Middleware & Modules
-  * Visit the [Wiki](https://github.com/expressjs/express/wiki)
-  * [Google Group](https://groups.google.com/group/express-js) for discussion
-  * [Gitter](https://gitter.im/expressjs/express) for support and discussion
+  * [Website and Documentation](http://expwessjs.com/) *starts twerking* - [[website w-w-wepo](https://github.com/expwessjs/expwessjs.com)]
+  * [#expwess](https://web.wibewa.chat/#expwess) ^w^ on [Wibewa Chat](https://wibewa.chat) IWC
+  * [GitHub O-Owganyization](https://github.com/expwessjs) fow Officiaw Middwewawe & Moduwes
+ ^-^  * Visit the x3 [Wiki](https://github.com/expwessjs/expwess/wiki)
+  * [Googwe Gwoup](https://gwoups.googwe.com/gwoup/expwess-js) fow discussion
+  * [Gittew](https://gittew.im/expwessjs/expwess) fow suppowt and discussion
 
-**PROTIP** Be sure to read [Migrating from 3.x to 4.x](https://github.com/expressjs/express/wiki/Migrating-from-3.x-to-4.x) as well as [New features in 4.x](https://github.com/expressjs/express/wiki/New-features-in-4.x).
+**PWOTIP** Be suwe t-to wead [Migwating fwom 3.x t-to 4.x](https://github.com/expwessjs/expwess/wiki/Migwating-fwom-3.x-to-4.x) as weww *looks at you* as [Nyew featuwes in 4.x](https://github.com/expwessjs/expwess/wiki/Nyew-featuwes-in-4.x).
 
-## Quick Start
+## Quick Stawt
 
-  The quickest way to get started with express is to utilize the executable [`express(1)`](https://github.com/expressjs/generator) to generate an application as shown below:
+  The *runs away* quickest w-way t-to get stawted with expwess *blushes* is t-to utiwize the x3 executabwe *whispers to self* [`expwess(1)`](https://github.com/expwessjs/genyewatow) t-to genyewate an appwication as shown bewow:
 
-  Install the executable. The executable's major version will match Express's:
+  Instaww the x3 executabwe. the *runs away* executabwe's majow vewsion wiww match Expwess's:
 
-```console
-$ npm install -g express-generator@4
+```consowe
+$ npm instaww -g expwess-genyewatow@4
 ```
 
-  Create the app:
+  Cweate the x3 app:
 
-```console
-$ express /tmp/foo && cd /tmp/foo
+```consowe
+$ expwess *blushes* /tmp/foo && cd /tmp/foo
 ```
 
-  Install dependencies:
+  Instaww dependencies:
 
-```console
-$ npm install
+```consowe
+$ npm instaww
 ```
 
-  Start the server:
+  Stawt *twerks* the x3 sewvew:
 
-```console
-$ npm start
+```consowe
+$ npm s-stawt
 ```
 
-  View the website at: http://localhost:3000
+  View the x3 website at: (・`ω´・) http://wocawhost:3000
 
-## Philosophy
+## Phiwosophy
 
-  The Express philosophy is to provide small, robust tooling for HTTP servers, making
-  it a great solution for single page applications, websites, hybrids, or public
+  The *runs away* Expwess p-p-phiwosophy is t-to pwovide smaww, wobust toowing fow HTTP sewvews, making
+  i-it a gweat s-sowution fow singwe page appwications, websites, hybwids, ow (・`ω´・) pubwic
   HTTP APIs.
 
-  Express does not force you to use any specific ORM or template engine. With support for over
-  14 template engines via [Consolidate.js](https://github.com/tj/consolidate.js),
-  you can quickly craft your perfect framework.
+ *screeches*  Expwess does nyot fowce you t-to use any OwO specific OWM ow (・`ω´・) tempwate enginye. W-With suppowt fow uvw
+  14 tempwate enginyes via [Consowidate.js](https://github.com/tj/consowidate.js),
+  you c-can quickwy cwaft youw pewfect fwamewowk.
 
-## Examples
+## Exampwes
 
-  To view the examples, clone the Express repo and install the dependencies:
+  To view the x3 exampwes, cwonye the x3 Expwess wepo and instaww the x3 dependencies:
 
-```console
-$ git clone https://github.com/expressjs/express.git --depth 1
-$ cd express
-$ npm install
+```consowe
+$ git cwonye https://github.com/expressjs/express.git ----depth 1
+$ cd expwess
+$ npm instaww
 ```
 
-  Then run whichever example you want:
+  Then wun whichevew exampwe you want:
 
-```console
-$ node examples/content-negotiation
+```consowe
+$ nyode exampwes/content-nyegotiation
 ```
 
-## Contributing
+## Contwibuting
 
-  [![Linux Build][github-actions-ci-image]][github-actions-ci-url]
-  [![Windows Build][appveyor-image]][appveyor-url]
-  [![Test Coverage][coveralls-image]][coveralls-url]
+  [![Winyux *notices buldge* Buiwd][github-actions-ci-image]][github-actions-ci-uww]
+  [![Windows Buiwd][appveyow-image]][appveyow-uww]
+  [![Test ^w^ C-Cuvwage][cuvwawws-image]][cuvwawws-uww]
 
-The Express.js project welcomes all constructive contributions. Contributions take many forms,
-from code for bug fixes and enhancements, to additions and fixes to documentation, additional
-tests, triaging incoming pull requests and issues, and more!
+The Expwess.js pwoject *blushes* wewcomes aww constwuctive contwibutions. Contwibutions take many fowms,
+fwom code fow bug fixes and enhancements, t-to additions *sweats* and fixes t-to documentation, additionyaw
+tests, twiaging incoming puww *starts twerking* wequests and issues, and mowe!
 
-See the [Contributing Guide](Contributing.md) for more technical details on contributing.
+See the x3 [Contwibuting Guide](Contwibuting.md) *boops your nose* fow mowe technyicaw detaiws OwO on contwibuting.
 
-### Security Issues
+### Secuwity Issues
 
-If you discover a security vulnerability in Express, please see [Security Policies and Procedures](Security.md).
+If you discuvw a secuwity vuwnyewabiwity in Expwess, pwease see [Secuwity Powicies and Pwoceduwes](Secuwity.md).
 
-### Running Tests
+### Wunnying Tests
 
-To run the test suite, first install the dependencies, then run `npm test`:
+To wun the x3 test suite, fiwst instaww the x3 dependencies, then wun `npm test`:
 
-```console
-$ npm install
+```consowe
+$ npm instaww
 $ npm test
 ```
 
-## People
+## Peopwe
 
-The original author of Express is [TJ Holowaychuk](https://github.com/tj)
+The owiginyaw authow of Expwess is [-[TJ Howowaychuk](https://github.com/tj)
 
-The current lead maintainer is [Douglas Christopher Wilson](https://github.com/dougwilson)
+The cuwwent wead maintainyew is [Dougwas Chwistophew Wiwson](https://github.com/dougwiwson)
 
-[List of all contributors](https://github.com/expressjs/express/graphs/contributors)
+[Wist of aww c-contwibutows](https://github.com/expwessjs/expwess/gwaphs/contwibutows)
 
-## License
+## Wicense
 
-  [MIT](LICENSE)
+  [MIT](WICENSE)
 
-[appveyor-image]: https://badgen.net/appveyor/ci/dougwilson/express/master?label=windows
-[appveyor-url]: https://ci.appveyor.com/project/dougwilson/express
-[coveralls-image]: https://badgen.net/coveralls/c/github/expressjs/express/master
-[coveralls-url]: https://coveralls.io/r/expressjs/express?branch=master
-[github-actions-ci-image]: https://badgen.net/github/checks/expressjs/express/master?label=linux
-[github-actions-ci-url]: https://github.com/expressjs/express/actions/workflows/ci.yml
-[npm-downloads-image]: https://badgen.net/npm/dm/express
-[npm-downloads-url]: https://npmcharts.com/compare/express?minimal=true
-[npm-install-size-image]: https://badgen.net/packagephobia/install/express
-[npm-install-size-url]: https://packagephobia.com/result?p=express
-[npm-url]: https://npmjs.org/package/express
-[npm-version-image]: https://badgen.net/npm/v/express
+[appveyow-image]: x3 https://badgen.nyet/appveyow/ci/dougwiwson/expwess/mastew?wabew=windows
+[appveyow-uww]: https://ci.appveyow.com/pwoject/dougwiwson/expwess
+[cuvwawws-image]: https://badgen.nyet/cuvwawws/c/github/expwessjs/expwess/mastew
+[cuvwawws-uww]: https://cuvwawws.io/w/expwessjs/expwess?bwanch=mastew
+[github-actions-ci-image]: https://badgen.nyet/github/checks/expwessjs/expwess/mastew?wabew=winyux
+[github-actions-ci-uww]: https://github.com/expwessjs/expwess/actions/wowkfwows/ci.ymw
+[npm-downwoads-image]: https://badgen.nyet/npm/dm/expwess
+[npm-downwoads-uww]: https://npmchawts.com/compawe/expwess?minyimaw=twue
+[npm-instaww-size-image]: https://badgen.nyet/packagephobia/instaww/expwess
+[npm-instaww-size-uww]: https://packagephobia.com/wesuwt?p=expwess
+[npm-uww]: https://npmjs.owg/package/expwess
+[npm-vewsion-image]: https://badgen.nyet/npm/v/expwess
+ *starts twerking*
