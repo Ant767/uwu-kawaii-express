@@ -9,7 +9,7 @@ describe('app.route', function(){
 
     app.route('/foo')
     .get(function(req, res) {
-      res.send('get');
+      // res.send('get');
     })
     .post(function(req, res) {
       res.send('post');
